@@ -589,7 +589,7 @@ CREATE INDEX wipo_field_index ON wipo_field(id);
 .import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\cpc_group.tsv cpc_group
 .import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\cpc_subgroup.tsv cpc_subgroup
 .import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\cpc_subsection.tsv cpc_subsection
-.import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\foreigncitation.tsv foriegncitation
+.import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\foreigncitation.tsv foreigncitation
 .import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\government_interest.tsv government_interest
 .import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\government_organization.tsv government_organization
 .import C:\\Users\\gtorres\\Downloads\\PatentsView\\data\\inventor.tsv inventor
